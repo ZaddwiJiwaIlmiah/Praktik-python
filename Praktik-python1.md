@@ -31,3 +31,10 @@ Sebelumnya mohon maaf pak saya menggunakan pydroid karna laptop nya sedang berma
    Hasil
 
    ![IMG_20211115_222356](https://user-images.githubusercontent.com/93030333/141798186-a3990b11-9b8f-40bd-80f2-521c9e9fe30f.jpg)
+
+5.  Biaya telpon
+   ![IMG_20211115_224525](https://user-images.githubusercontent.com/93030333/141801527-11aeb4af-45bd-4efd-a943-da38bedfa43b.jpg)
+
+   Hasil program
+
+   ![IMG_20211115_224540](https://user-images.githubusercontent.com/93030333/141801548-4c1b2091-9935-4644-8b5d-609e659a1fb0.jpg)
