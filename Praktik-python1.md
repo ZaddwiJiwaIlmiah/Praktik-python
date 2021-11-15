@@ -23,3 +23,11 @@ Sebelumnya mohon maaf pak saya menggunakan pydroid karna laptop nya sedang berma
    Hasil 
 
    ![IMG_20211115_221153](https://user-images.githubusercontent.com/93030333/141796490-266b0c21-aa0e-45a6-947e-34330657b6e3.jpg)
+
+4. Menghitung penjualan buku dengan memasukkan diskon secara manual.
+ 
+   ![IMG_20211115_222340](https://user-images.githubusercontent.com/93030333/141798148-38d3db1b-be52-4e60-84c2-3d850cc97da0.jpg)
+
+   Hasil
+
+   ![IMG_20211115_222356](https://user-images.githubusercontent.com/93030333/141798186-a3990b11-9b8f-40bd-80f2-521c9e9fe30f.jpg)
