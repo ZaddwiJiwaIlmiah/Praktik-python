@@ -16,4 +16,10 @@ Sebelumnya mohon maaf pak saya menggunakan pydroid karna laptop nya sedang berma
 
    ![IMG_20211115_220523](https://user-images.githubusercontent.com/93030333/141795453-6573ab21-3f3f-4479-9706-4980d2a872dc.jpg)
 
-3.
+3. Menghitung pembelian
+
+   ![IMG_20211115_221206](https://user-images.githubusercontent.com/93030333/141796425-a0e82e4d-db22-4666-bc0a-ab6d1d4c8a26.jpg)
+   
+   Hasil 
+
+   ![IMG_20211115_221153](https://user-images.githubusercontent.com/93030333/141796490-266b0c21-aa0e-45a6-947e-34330657b6e3.jpg)
