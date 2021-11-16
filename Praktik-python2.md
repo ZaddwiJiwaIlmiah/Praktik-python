@@ -40,6 +40,13 @@
 
 6. Menghitung gaji seorang karyawan 
 
-   
+   ![IMG_20211116_214208](https://user-images.githubusercontent.com/93030333/141996246-4278d19a-13fd-4917-ace1-73bbac5e7bb4.jpg)
+
+   ![IMG_20211116_214154](https://user-images.githubusercontent.com/93030333/141996260-0a431dd0-4799-4cfe-b887-6891b711c24a.jpg)
+
+   Hasil
+ 
+   ![IMG_20211116_214220](https://user-images.githubusercontent.com/93030333/141996265-d536571c-92b2-420b-9536-15fac01f62bb.jpg)
+
 
 
