@@ -6,3 +6,6 @@ Lagi lagi maaf pak saya masih make pydroid.
    Hasil
    ![IMG_20211118_215821](https://user-images.githubusercontent.com/93030333/142429171-681ff05d-0bc1-41d1-9142-cc013466c0b5.jpg)
 
+5. Mencari bilangan terbesar :
+
+   
