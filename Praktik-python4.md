@@ -5,8 +5,15 @@ Lagi lagi maaf pak saya masih make pydroid.
 
       Hasil
       ![IMG_20211118_215821](https://user-images.githubusercontent.com/93030333/142429171-681ff05d-0bc1-41d1-9142-cc013466c0b5.jpg)
-   
-   5. Mencari bilangan terbesar :
+  
+   2. Nilai nilai mahasiswa 
+       
+
+
+
+ 5.(lima) 
+ 
+  Mencari bilangan terbesar :
  
   ![IMG_20211118_221623](https://user-images.githubusercontent.com/93030333/142432465-47517f18-3b34-4bba-9e18-38dd6dc14f7e.jpg)
 
@@ -14,5 +21,4 @@ Lagi lagi maaf pak saya masih make pydroid.
  
   ![IMG_20211118_221634](https://user-images.githubusercontent.com/93030333/142432481-f9213041-f6cf-45cf-9a74-4156cb2addac.jpg)
  
-
-   
+ 
