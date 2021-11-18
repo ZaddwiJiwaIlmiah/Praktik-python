@@ -7,7 +7,15 @@ Lagi lagi maaf pak saya masih make pydroid.
       ![IMG_20211118_215821](https://user-images.githubusercontent.com/93030333/142429171-681ff05d-0bc1-41d1-9142-cc013466c0b5.jpg)
   
    2. Nilai nilai mahasiswa 
-       
+      
+      ![IMG_20211118_223350](https://user-images.githubusercontent.com/93030333/142435650-30b63b3c-51e4-48ae-8afe-b53e3f7bb15f.jpg)
+
+   
+      ![IMG_20211118_223405](https://user-images.githubusercontent.com/93030333/142435670-e55e894e-0ec5-48c6-810f-1c337c361698.jpg)
+
+      Hasil
+
+      ![IMG_20211118_223417](https://user-images.githubusercontent.com/93030333/142435692-6696cfdf-c0ae-4f77-8ea1-f4aea16cf95b.jpg)
 
 
 
